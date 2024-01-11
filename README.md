@@ -14,7 +14,10 @@ ReactNativeJobsApp is a mobile application developed using React Native, Expo, J
 
 📸 Sneak Peek
 -----------
-![ReactNativeJobsApp Video](https://github.com/chaitalilad27/ReactNativeJobsApp/example/ReactnativeJobsApp.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaitalilad27/ReactNativeJobsApp/main/example/ReactnativeJobsApp.gif" alt="ReactNativeJobsApp Video" />
+</p>
 
 ## Technologies Used 🛠️
 
